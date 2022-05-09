@@ -13,3 +13,4 @@ jobs:
           DATAVERSE_SERVER: https://dataverse.lib.nycu.edu.tw
           DATAVERSE_DATASET_DOI: doi:10.82136/FK2/CFSVIC
           DELETE: False
+          PUBLISH: False
