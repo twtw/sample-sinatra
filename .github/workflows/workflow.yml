@@ -12,3 +12,4 @@ jobs:
           DATAVERSE_TOKEN: ${{secrets.DV_TOKEN}}
           DATAVERSE_SERVER: https://dataverse.lib.nycu.edu.tw
           DATAVERSE_DATASET_DOI: doi:10.82136/FK2/CFSVIC
+          REMOVE: False
